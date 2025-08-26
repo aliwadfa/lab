@@ -1,1 +1,2 @@
-"Demo Repo\nMain branch update\n"
+Demo Repo
+Main branch update
